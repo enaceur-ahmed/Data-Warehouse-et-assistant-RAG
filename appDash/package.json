@@ -1,0 +1,25 @@
+{
+  "name": "hr-bi-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "HR BI Dashboard - Frontend React (Vite) for DW-Projet HR data warehouse",
+  "scripts": {
+    "dev": "vite --port 5173",
+    "build": "vite build",
+    "preview": "vite preview --port 5173"
+  },
+  "dependencies": {
+    "@babel/runtime": "^8.0.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^9.1.0",
+    "react-router-dom": "^6.30.1",
+    "recharts": "^2.15.4",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.19"
+  }
+}

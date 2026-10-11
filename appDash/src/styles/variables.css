@@ -1,0 +1,47 @@
+/* ===== HR BI Dashboard — Design tokens ===== */
+:root {
+  /* Surfaces */
+  --bg: #f3f5fa;
+  --surface: #ffffff;
+  --surface-alt: #f8fafc;
+
+  /* Text */
+  --text: #1e293b;
+  --text-inverse: #ffffff;
+  --muted: #64748b;
+
+  /* Brand / accents */
+  --border: #e2e8f0;
+  --primary: #4f46e5;
+  --primary-hover: #4338ca;
+  --primary-soft: #eef2ff;
+
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --info: #0ea5e9;
+
+  /* Categorical palette (charts) */
+  --c1: #6366f1;
+  --c2: #22d3ee;
+  --c3: #f59e0b;
+  --c4: #10b981;
+  --c5: #f472b6;
+  --c6: #a78bfa;
+  --c7: #fbbf24;
+  --c8: #34d399;
+  --c9: #fb7185;
+  --c10: #60a5fa;
+
+  /* Elevation / shape */
+  --shadow: 0 1px 3px rgba(15, 23, 42, 0.07), 0 1px 2px rgba(15, 23, 42, 0.05);
+  --shadow-hover: 0 6px 16px rgba(15, 23, 42, 0.1), 0 2px 6px rgba(15, 23, 42, 0.06);
+  --radius: 12px;
+  --radius-sm: 8px;
+
+  /* Layout */
+  --sidebar-width: 248px;
+  --topbar-height: 60px;
+
+  --transition: 180ms ease;
+}
