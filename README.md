@@ -390,15 +390,15 @@ Le bouton **Réindexer** reconstruit l'index BM25 à partir de l'état courant d
 ## 📸 Captures d'écran
 
 <p align="center">
-  <img src="image1.png" width="85%" alt="Tableau de bord — Analyse par département"/>
+  <img src="image1.png" width="85%" alt="Assistant RAG — Chat sur l'entrepôt RH"/>
   <br/>
-  <em>Tableau de bord analytique — Vue Départements (effectifs, salaires, répartition par genre)</em>
+  <em>Assistant RAG hybride — Réponse markdown avec sources repliables</em>
 </p>
 
 <p align="center">
-  <img src="image2.png" width="85%" alt="Assistant RAG — Chat sur l'entrepôt RH"/>
+  <img src="image2.png" width="85%" alt="Tableau de bord — Analyse par département"/>
   <br/>
-  <em>Assistant RAG hybride — Réponse markdown avec sources repliables</em>
+  <em>Tableau de bord analytique — Vue Départements (effectifs, salaires, répartition par genre)</em>
 </p>
 
 ---
